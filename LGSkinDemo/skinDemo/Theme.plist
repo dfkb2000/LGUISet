@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>skin_default</key>
+	<string>skin/default</string>
+	<key>skin_cloud</key>
+	<string>skin/cloud</string>
+</dict>
+</plist>
